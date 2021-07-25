@@ -7,6 +7,7 @@ public class Sample {
 		System.out.println("Hello World!");
 		//test
 		//ssh
+		//pr and mr
 
 	}
 
